@@ -19,7 +19,7 @@
 
 ![AWARD](https://github-profile-trophy.vercel.app/?username=DARKWEBREBEL)
 ![STATS](https://github-readme-stats.vercel.app/api?username=DARKWEBREBEL)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REBEL75&layout=compact&theme=radical)](https://github.com/DARKWEBREBEL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKWEBREBEL&layout=compact&theme=radical)](https://github.com/DARKWEBREBEL)
 
 ![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARKWEBREBEL&theme=vue)
 ![BADGE]( https://github-readme-streak-stats.herokuapp.com/?user=DARKWEBREBEL)
