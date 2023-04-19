@@ -1,7 +1,7 @@
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=W+E+L+C+O+M+E+T+O+M+Y+P+R+O+F+I+L+E)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://telegra.ph/file/6deee5ff266a6a964d122.jpg" alt="nz" width="190"/>
+<img src="/photo_2023-04-19_23-19-52.jpg" alt="nz" width="190"/>
 </p>
 
 ### About 🙋🏻‍♂️
