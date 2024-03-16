@@ -17,9 +17,9 @@
 ```
 ## 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂
 
-![AWARD](https://github-profile-trophy.vercel.app/?username=DARKWEBREBEL)
-![STATS](https://github-readme-stats.vercel.app/api?username=DARKWEBREBEL)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARKWEBREBEL&layout=compact&theme=radical)](https://github.com/DARKWEBREBEL)
+![AWARD](https://github-profile-trophy.vercel.app/?username=ProRebel)
+![STATS](https://github-readme-stats.vercel.app/api?username=ProRebel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProRebel&layout=compact&theme=radical)](https://github.com/ProRebel)
 
-![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARKWEBREBEL&theme=vue)
-![BADGE]( https://github-readme-streak-stats.herokuapp.com/?user=DARKWEBREBEL)
+![GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProRebel&theme=vue)
+![BADGE]( https://github-readme-streak-stats.herokuapp.com/?user=ProRebel)
