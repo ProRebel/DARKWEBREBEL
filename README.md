@@ -33,8 +33,8 @@
     <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
     <code><a href="https://www.php.net/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/php/php-icon.svg"> </a></code>
    <br />
-    <code><a href="https://www.cprogramming.com/" target="_blank"> <img width="10%"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </a></code>
-   <code><a href="https://www.cprogramming.com/" target="_blank"> <img width="10%"   src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/CPP.svg"> </a></code>
+    <code><a href="https://www.cprogramming.com/" target="_blank"> <img width="20%"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </a></code>
+   <code><a href="https://www.cprogramming.com/" target="_blank"> <img width="20%"   src="https://github.com/Tayeb-Ahmed-TAS/Images/blob/main/CPP.svg"> </a></code>
    <br />
     <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
     <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
